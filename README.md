@@ -14,3 +14,9 @@ Ha zárva van az áruház, minden kérés esetén egy oldal jelenjen meg: "Zárv
 A nyitvatartás intervallum (vasárnap - péntek) yml-ből beállítható legyen.
 
 TDD szemlélettel oldjuk meg a feladatot.
+
+WHAT'S INSIDE?
+==============
+Symfony 2.7.*
+
+PHPUnit 3.7.*
